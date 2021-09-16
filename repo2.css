@@ -1,0 +1,45 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    font-family: serif;
+    padding-bottom: 3px;
+    font-size: 240%;
+}
+
+.table1{
+    background-color: rgb(13, 138, 240);
+}
+
+.table2{
+    background-color: rgb(56, 131, 165);
+}
+
+.table3{
+    background-color: rgb(106, 179, 212);
+}
+
+.table4{
+    background-color: rgb(56, 131, 165);
+}
+
+.table5{
+    background-color: rgb(106, 179, 212);
+}
+
+.table6{
+    background-color: rgb(56, 131, 165);
+}
+
+.table7{
+    background-color: rgb(106, 179, 212);
+}
+
+.table8{
+    background-color: rgb(56, 131, 165);
+}
+
+.table9{
+    background-color: rgb(106, 179, 212);
+}
